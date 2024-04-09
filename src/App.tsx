@@ -24,7 +24,7 @@ function App() {
         <div className={cx('app')}>
             <div className={cx('app-container')}>
                 <Modal />
-                <h1 className={cx('title')}>Cờ Caro</h1>
+                <h1 className={cx('title')}>Game Cờ Caro</h1>
                 <div className={cx('description')}>
                     <div>
                         <SelectRatio />
